@@ -1,4 +1,4 @@
-# **Bank Customer Churn Prediction**
+# **Bank Customer Churn Model**
 
 This project aims to predict customer churn in the banking sector using machine learning techniques. By analyzing customer data, the model identifies individuals likely to leave the bank, enabling better retention strategies.
 
@@ -61,7 +61,7 @@ The dataset used in this project contains customer data such as:
 ## **Installation**
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/bu21cseo500181/bank-customer-churn.git
+   git clone https://github.com/bu21cseo500181/bank-customer-churn-model.git
    cd bank-customer-churn
    ```
 2. Install dependencies:  
