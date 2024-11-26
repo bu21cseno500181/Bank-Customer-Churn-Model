@@ -61,7 +61,7 @@ The dataset used in this project contains customer data such as:
 ## **Installation**
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/bank-customer-churn.git
+   git clone https://github.com/bu21cseo500181/bank-customer-churn.git
    cd bank-customer-churn
    ```
 2. Install dependencies:  
